@@ -6,12 +6,12 @@
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/fast-npm-meta#readme",
+  "homepage": "https://github.com/made-in-common/fast-npm-meta#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/fast-npm-meta.git"
+    "url": "git+https://github.com/made-in-common/fast-npm-meta.git"
   },
-  "bugs": "https://github.com/antfu/fast-npm-meta/issues",
+  "bugs": "https://github.com/made-in-common/fast-npm-meta/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
